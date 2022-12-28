@@ -19,3 +19,5 @@ Each line of txt are the examples and meanings of one word. <br />
 > The generated word dataset is the txt dataset which is composed of word examples and meanings
 > The file directory is "dic_text.txt"
 
+## Code
+dic_to_text.ipynb 
